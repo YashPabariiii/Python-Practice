@@ -1,0 +1,14 @@
+typing
+langgraph
+ddgs
+yfinance
+langchain_groq
+langchain_community
+langchain_core
+langchain_huggingface
+langchain_chroma
+sentence-transformers
+pypdf
+langchain
+pydantic
+matplotlib
